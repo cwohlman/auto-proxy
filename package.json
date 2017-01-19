@@ -6,6 +6,7 @@
   "author": "Joshua Ohlman <codewriterohs@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "http-proxy": "^1.16.2"
+    "http-proxy": "^1.16.2",
+    "request": "^2.79.0"
   }
 }
