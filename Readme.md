@@ -11,3 +11,8 @@ Getting started
 2. Run the server `sudo node server.js` (note you need sudo to bind to port 80).
 3. Get a port number for your app using the auto tool `PORT=$(node auto.js myapp.localhost)`. Alternatively you can just paste the source of auto.js into your start script.
 4. Run your app using the assigned port number e.g. `PORT=$(node auto.js myapp.localhost) node index.js` or `meteor -p $PORT`
+
+Easier use of the auto tool:
+---
+
+If you like you can npm link this package and use the auto.js tool via `auto-proxy-get-port` from the command line.
