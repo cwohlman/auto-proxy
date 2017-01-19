@@ -8,5 +8,8 @@
   "dependencies": {
     "http-proxy": "^1.16.2",
     "request": "^2.79.0"
+  },
+  "bin": {
+    "auto-proxy-get-port": "bin/autoport"
   }
 }
