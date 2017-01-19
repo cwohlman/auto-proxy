@@ -1,0 +1,11 @@
+{
+  "name": "auto-proxy",
+  "version": "0.0.1",
+  "description": "Auto-configurable reverse-proxy for web development on localhost using domain names",
+  "main": "index.js",
+  "author": "Joshua Ohlman <codewriterohs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
